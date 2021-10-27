@@ -2,7 +2,7 @@
 2020 Sogang Univ Operating System (CSE4070) Project
 
 Development of Pintos  
-참고 doc : http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
+> 참고 doc : http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 
 PROJECT #0_2
 ------------
